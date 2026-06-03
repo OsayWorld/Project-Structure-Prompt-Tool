@@ -1,6 +1,7 @@
 # Project Structure Tool • Production v9
 
-Production v9 is a desktop-ready successor built from the original production architecture, not a stripped rewrite. It preserves multi-workspace scanning, checkbox include/exclude control, full-project copy, AI prompt workflows, secret scan, token budgeting, editor tools, launch wrappers, and packaging helpers while tightening the UI into one unified desktop shell.
+Project structure prompt v9 is a desktop-ready multi-workspace scanning tool;
+It can checkbox include/exclude control, full-project copy, AI prompt workflows, secret scan, token budgeting, editor tools, launch wrappers, and packaging helpers while tightening the UI into one unified desktop shell.
 
 # Project Structure Tool
 
