@@ -40,7 +40,7 @@ python main.py
 ```
 
 ### Method 2: Batch File (Windows - with console)
-Double-click `ProjectStructureTool.bat`
+Double-click `run.bat`
 
 ### Method 3: VBS Script (Windows - no console window)
 Double-click `ProjectStructureTool_NoConsole.vbs`
@@ -115,7 +115,7 @@ Settings are stored in `explorer_config.json`:
 
 ## Version
 
-1.0 - Initial release with cascading checkbox functionality
+9.0 - Initial release with cascading checkbox functionality
 
 
 ## Stable UI Production Build Notes
